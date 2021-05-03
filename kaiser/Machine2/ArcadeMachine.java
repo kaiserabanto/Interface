@@ -7,7 +7,7 @@ public ArcadeMachine() {
 }
 	@Override
 	public void dispense() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("1 coin inserted\n [Ready to Play]");
 		System.out.println("GAME OVER!");
 		coins++;
