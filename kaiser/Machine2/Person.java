@@ -16,7 +16,7 @@ public class Person {
 		System.out.println("");
 		
 		if(coins == 0)
-			System.out.println("No more coins!");
+			System.out.println("PLS INSERT COIN!");
 
 	}
 }
